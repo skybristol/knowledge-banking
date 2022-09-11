@@ -1,0 +1,6 @@
+swifter
+camelot-py[cv]
+camelot-py[cv]
+tabula-py
+tabulate
+OSMPythonTools
